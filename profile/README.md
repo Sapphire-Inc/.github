@@ -24,6 +24,6 @@ We specialize in:
 - Sapphire Brainpop hack.
 
 ## ✉️ Contact info
-- CA or any other companies that want to contact us for any legal inquiries contact officialsapphire111@gmail.com, We will respond and take action accordingly as soon as possible.
+- CA or any other companies that want to contact us for any legal inquiries contact officialsapphire111@gmail.com.
 
 © 2024 Sapphire Inc. All rights reserved.
