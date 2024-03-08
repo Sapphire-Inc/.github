@@ -1,4 +1,3 @@
-
 <p align="center">
     <img alt="Sapphire-icon" src="https://github.com/Sapphire-Inc/.github/assets/152449510/4615bc39-4eeb-4f59-8740-20cdde459eff"
 ">
@@ -23,8 +22,6 @@ We specialize in:
 ## 🚧 What we've made
 - Sapphire i-Ready hack.
 - Sapphire Brainpop hack.
-  
-
 
 ## ✉️ Contact info
 - CA or any other companies that want to contact us for any inquiries contact officialsapphire111@gmail.com
