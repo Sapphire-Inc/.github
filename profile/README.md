@@ -13,17 +13,22 @@
 We specialize in:
 
 - Cybersecurity
-- Exploiting Code
-- Modifying the core features to our advantage
-- Reverse engineering
-- Code analysis
-- Web development
+- Finding vulnerabilities in websites.
+- API and endpoint identification.
+- Patching and hooking hidden functions.
+- Code deobfuscation and analysis.
+- Encryption and security analysis.
+- Web engineering.
 
-## 🚧 What we've made
+## 🚧 What we've created
 - Sapphire i-Ready hack.
 - Sapphire Brainpop lesson skipper.
 
 ## ✉️ Contact info
 - CA or any other companies that want to contact us for any legal inquiries contact officialsapphire111@gmail.com
+<br>
 
-© 2024 Sapphire Inc. All rights reserved.
+---
+<p align="center">
+  &copy; 2024 Sapphire Inc. All rights reserved.
+</p>
