@@ -21,9 +21,9 @@ We specialize in:
 
 ## 🚧 What we've made
 - Sapphire i-Ready hack.
-- Sapphire Brainpop hack.
+- Sapphire Brainpop lesson skipper.
 
 ## ✉️ Contact info
-- CA or any other companies that want to contact us for any legal inquiries contact officialsapphire111@gmail.com.
+- CA or any other companies that want to contact us for any legal inquiries contact officialsapphire111@gmail.com
 
 © 2024 Sapphire Inc. All rights reserved.
